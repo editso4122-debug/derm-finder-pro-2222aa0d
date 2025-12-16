@@ -1,0 +1,4 @@
+project_id = "hwyvvexblbpcydiwktbp"
+
+[functions.find-doctors]
+verify_jwt = false
